@@ -15,3 +15,8 @@ Create a project called moviedex-api and initialize it as an Express app to meet
 - The endpoint is GET /types
 3. Both endpoints are public and only respond when given a valid Authorization header with a Bearer API token value.
 4. Both endpoints should have general security in place.
+
+### Example Commands
+* http://localhost:8000/types
+* http://localhost:8000/pokemon
+* http://localhost:8000/pokemon?name=PsyDuCk&type=Water
