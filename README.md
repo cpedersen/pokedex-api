@@ -1,6 +1,8 @@
 # Summary
 This example is part of the "Working with Datasets" section of the Node curriculum at Thinkful.
 
+https://courses.thinkful.com/node-postgres-v1/checkpoint/6
+
 ## Example
 Create a project called moviedex-api and initialize it as an Express app to meet the following requirements.
 
